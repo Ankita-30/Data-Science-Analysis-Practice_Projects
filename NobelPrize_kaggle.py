@@ -29,7 +29,7 @@ prop_usa_winners = nobel.groupby('decade', as_index=False)['usa_born_winner'].me
 
 
 # Display the proportions of USA born winners per decade
-#print(prop_usa_winners)
+print(prop_usa_winners)
 
 # Setting the plotting theme
 sns.set()
