@@ -1,3 +1,3 @@
 
-#Data-Science Projects
-#Working with public datasets in python
+#Data-Science Projects in Python
+
