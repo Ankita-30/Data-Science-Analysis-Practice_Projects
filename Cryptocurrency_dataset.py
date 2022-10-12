@@ -1,3 +1,7 @@
+
+## Analyzing trends in cryptocurrencies especially because of the pandemic ##
+
+
 # Importing pandas
 import pandas as pd
 
