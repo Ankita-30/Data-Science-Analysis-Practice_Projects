@@ -1,5 +1,5 @@
 
-## Analyzing trends in cryptocurrencies especially because of the pandemic ##
+## Analyzing trends in cryptocurrencies ##
 
 
 # Importing pandas
