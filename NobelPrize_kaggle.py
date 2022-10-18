@@ -1,4 +1,4 @@
-## Analyzing 
+## Analyzing gender bias in nobel prize winners ##
 
 
 # ..... Load libraries .... #
