@@ -72,7 +72,7 @@ confidence_interval = pd.Series(boot_mean_diff).quantile([0.025, 0.975])
 print(confidence_interval)
 
 # The data Semmelweis collected points to that:
-doctors_should_wash_their_hands = False
+doctors_should_wash_their_hands = True
 
 
 
