@@ -10,7 +10,7 @@ from matplotlib.ticker import PercentFormatter
 # ..... Load libraries .... #
 
 # Reading in the Nobel Prize data from Kaggle
-nobel=pd.read_csv(r'/Users/ankita/Desktop/Kaggle/nobel_prize.csv')
+nobel=pd.read_csv(r'Datasets/nobel_prize.csv')
 
 # Taking a look at the first several winners
 nobel.head(n=6)
