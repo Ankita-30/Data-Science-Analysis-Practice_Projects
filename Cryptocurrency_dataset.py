@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 plt.style.use('fivethirtyeight')
 
 # Reading datasets/coinmarketcap_06122017.csv into pandas
-dec6 = pd.read_csv('datasets/coinmarketcap_06122017.csv')
+dec6 = pd.read_csv('Datasets/coinmarketcap_06122017.csv')
 
 # Selecting the 'id' and the 'market_cap_usd' columns
 market_cap_raw = dec6[['id', 'market_cap_usd']]
